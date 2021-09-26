@@ -1,0 +1,53 @@
+{
+    "name": "flare",
+    "children": [
+     {
+      "name": "매운향", 
+      "children": [
+       {"name": "향신료","value": 6900},
+       {
+        "name": "기름진", "value": 6900
+       }
+      ]
+     },
+     {
+      "name": "몰트향",
+      "children": [
+       {"name": "견과류", "value":7100},
+       {
+        "name": "숯불향", "value":7100
+       }
+      ]
+     },
+     {
+      "name": "시원한향", 
+      "children": [
+       {
+        "name": "시트러스", "value":6800},
+       {"name": "플로럴","value":6800
+       }
+      ]
+     },
+     {
+      "name": "나무향", 
+      "children": [
+       {"name": "오크", "value": 6700},
+       {"name": "바닐라", "value": 6700}
+      ]
+     },
+     {
+      "name": "과일향", 
+      "children": [
+       {"name": "달콤", "value": 7000},
+       {"name": "건과일", "value": 7000}
+      ]
+     },
+     {
+      "name": "피트향",  
+      "children": [
+       {"name": "화학적", "value": 6600},
+       {"name": "스모키", "value": 6600}
+      ]
+     }
+    ]
+   }
