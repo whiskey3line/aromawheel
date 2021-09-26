@@ -1,6 +1,8 @@
 # aromawheel
 위스키 아로마휠 구성하기
 
+![alt text](./files/example.png?raw=true)
+
 기존 출처:
 https://observablehq.com/@d3/sunburst@242
 
